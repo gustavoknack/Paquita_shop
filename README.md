@@ -39,7 +39,7 @@ O projeto foi estruturado de acordo com boas práticas de desenvolvimento web, u
 
 ## Publicação
 
-O projeto foi publicado utilizando o GitHub Pages. Para acessar o site, [clique aqui](#).
+O projeto foi publicado utilizando o GitHub Pages. Para acessar o site, https://gustavoknack.github.io/Paquita_shop/.
 
 ### Como Executar o Projeto Localmente
 
